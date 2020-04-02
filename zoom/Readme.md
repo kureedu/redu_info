@@ -2,7 +2,7 @@
 
 # ダウンロード
 アプリをダウンロード
-[![iOS](Download_apple.png)](https://itunes.apple.com/us/app/id546505307)
+[![iOS](Download_apple.png)](https://apps.apple.com/jp/app/zoom-cloud-meetings/id546505307)
 
 [![Andloid](google-play-badge.png)](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
 
