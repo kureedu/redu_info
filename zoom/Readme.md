@@ -6,4 +6,8 @@
 
 [![Andloid](google-play-badge.png)](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
 
+# サインアップ
+ホストするためにはZOOMのIDが必要です．
+[サインアップ](https://www.zoom.us/signup)
+
 ## リンク集
