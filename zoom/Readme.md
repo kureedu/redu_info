@@ -4,6 +4,7 @@
 2. 講義に出席する
 
 # ダウンロード
+<<<<<<< Updated upstream
 
 PC用
 [![For PC](ZoomLogo.png)](https://www.zoom.us/download)
@@ -17,5 +18,10 @@ Android[<img src="google-play-badge.png" width=150 alt="Android">](https://play.
 # サインアップ
 ホストするためにはZOOMのIDが必要です．
 [サインアップ](https://www.zoom.us/signup)
+=======
+アプリをダウンロード
+![iOS(Download_apple.png)](https://itunes.apple.com/us/app/id546505307)
+[Andloid](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
+>>>>>>> Stashed changes
 
 ## リンク集
