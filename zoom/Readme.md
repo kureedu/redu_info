@@ -1,11 +1,13 @@
 # ZOOMの使い方
 
+1. 講義をZOOMで行う
+2. 講義に出席する
+
 # ダウンロード
 
 PC用
 [![For PC](ZoomLogo.png)](https://www.zoom.us/download)
 
-スーマートフォン・タブレット用アプリをダウンロード
 
 iPhone/iPad
 [![iOS](Download_apple.png)](https://apps.apple.com/jp/app/zoom-cloud-meetings/id546505307)
