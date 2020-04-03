@@ -18,7 +18,7 @@ Android
 [![Android](google-play-badge.png)](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
 
 # サインアップ
-ホストするためにはZOOMのIDが必要です．また，4月30日までのアカデミック特典（接続回数・接続時間制限解除）を受けるためには，ac.jpでおわるメールアドレスでサインアップする必要があります．
+ホストするためにはZOOMのIDが必要です．また，4月30日までのアカデミック特典（接続回数・接続時間制限解除）を受けるためには，ac.jpドメインのメールアドレスでサインアップする必要があります．
 
 [サインアップ](https://www.zoom.us/signup)
 
