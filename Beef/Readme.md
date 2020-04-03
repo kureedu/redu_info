@@ -18,7 +18,7 @@ BEEFを用いたオンライン授業の方法の例
 - 毎回のテーマや日付の入力
 
 ### part.2 授業資料を準備し学生に公開しよう
-<img src="/Beef/BEEFpart2Title.png" width="150">[動画（5分程度）](https://drive.google.com/file/d/1vs9vFEosnRBS8VPnc8rmPTf9W3wXbMVl/view?usp=sharing)
+<img src="/Beef/BEEFpart2Title.png" width="150">[動画（5分程度）](https://drive.google.com/file/d/1JSgZcQuRHvgdku0fi8SMEVfAlodDC9BK/view?usp=sharing)
 
 - pdfなどのファイルをアップロードする
 - 参考サイトにリンクを貼る
