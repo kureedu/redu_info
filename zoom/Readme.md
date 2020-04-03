@@ -3,8 +3,9 @@
 # ダウンロード
 
 PC用
+[![For PC](ZoomLogo.png)](https://www.zoom.us/download)
 
-アプリをダウンロード
+スーマートフォン・タブレット用アプリをダウンロード
 
 iPhone/iPad
 [![iOS](Download_apple.png)](https://apps.apple.com/jp/app/zoom-cloud-meetings/id546505307)
