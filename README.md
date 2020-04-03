@@ -15,8 +15,8 @@
 - [オンライン授業を実施する方法](/Online_lecture/Readme.md)
 
 ### 遠隔授業に利用できるシステム
-- [LMS BEEF (学修支援システム）](Beef/Readme.md)
-- [ZOOM (Web会議システム）](Zoom/Readme.md)
+- [LMS BEEF (学修支援システム）](/Beef/Readme.md)
+- [ZOOM (Web会議システム）](/Zoom/Readme.md)
 
 ### イベント情報
 
