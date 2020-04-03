@@ -12,7 +12,7 @@ BEEFを用いたオンライン授業の方法の例
 
 ## 説明ビデオ（BEEFのはじめかた）
 ### part.1 BEEFにログインし、授業の概要を入力しよう
-<img src="/Beef/BEEFpart1Title.jpg" width="150">[動画（5分程度）](https://drive.google.com/file/d/1vs9vFEosnRBS8VPnc8rmPTf9W3wXbMVl/view?usp=sharing)
+<img src="/redu_info/Beef/BEEFpart1Title.jpg" width="150">[動画（5分程度）](https://drive.google.com/file/d/1vs9vFEosnRBS8VPnc8rmPTf9W3wXbMVl/view?usp=sharing)
 
 - コースの準備
 - 毎回のテーマや日付の入力
