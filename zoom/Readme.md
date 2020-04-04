@@ -68,14 +68,14 @@ PC，タブレット，スマートフォンなど接続用デバイスを用意
 # ダウンロード
 
 PC用
-[![For PC](ZoomLogo.png)](https://www.zoom.us/download)
+[![For PC](pc-download.png)](https://www.zoom.us/download)
 
 
 iPhone/iPad
-[![iOS](Download_apple.png)](https://apps.apple.com/jp/app/zoom-cloud-meetings/id546505307)
+[![iOS](iPhone-download.png)](https://apps.apple.com/jp/app/zoom-cloud-meetings/id546505307)
 
 Android
-[![Android](google-play-badge.png)](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
+[![Android](android-download.png)](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
 
 
 
