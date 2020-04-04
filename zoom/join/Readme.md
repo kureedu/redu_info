@@ -7,6 +7,6 @@
 1. URLを用いる方法
 
 BEEF，電子メールなどで届く
-URL（\https://zoom.us/j/xxxxxxxxxx?pwd=xxxxxxxx xは英数字）を使って
+URL（`https://zoom.us/j/xxxxxxxxxx?pwd=xxxxxxxx` xは英数字）を使って
 
 2. ミーティングIDを用いる方法
