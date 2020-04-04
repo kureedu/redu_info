@@ -2,7 +2,7 @@
 
 ## はじめに
 
-ここでは Web会議ツール Zoom の特徴や利用の流れについて説明します．また，具体的な使い方が載った資料とサブページも用意しましたので，適宜ご参照ください．
+ここでは Web会議ツール Zoom 利用の流れについて説明します．また，具体的な使い方が載った資料とサブページも用意しましたので，適宜ご参照ください．
 基本的に PC での利用について説明しますが，タブレットやスマートフォンでもアプリを用いることで Zoom を使えます．
 
 ZOOMをダウンロードしてインストールしてください．
@@ -72,13 +72,16 @@ PC，タブレット，スマートフォンなど接続用デバイスを用意
 # ダウンロード
 
 PC用
+
 [![For PC](pc-download.png)](https://www.zoom.us/download)
 
 
-iPhone/iPad
+iPhone/iPad 用
+
 [![iOS](iPhone-download.png)](https://apps.apple.com/jp/app/zoom-cloud-meetings/id546505307)
 
-Android
+Android 用
+
 [![Android](android-download.png)](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
 
 
