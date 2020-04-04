@@ -2,6 +2,19 @@
 
 ## はじめに
 
+ここでは Web会議ツール Zoom の特徴や利用の流れについて説明します．また，具体的な使い方が載った資料とサブページも用意しましたので，適宜ご参照ください．
+本ページでは基本的に PC での利用について説明しますが，タブレットやスマートフォンでもアプリを用いることで Zoom を使えます．
+
+ZOOMをダウンロードしてインストールしてください．
+
+PC用(https://www.zoom.us/download)
+
+
+iPhone/iPad用(https://apps.apple.com/jp/app/zoom-cloud-meetings/id546505307)
+
+Android用(https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
+
+
 ZOOMを使った授業をミーティングや会議室，オンライン授業などと記述しています．その他，用語の統一がされていないところもありますが，少しづつ改善してまいります．
 
 ## おしらせ
