@@ -31,3 +31,4 @@ Zoom を起動します
 ![ミーティングIDで参加1](zoom-home-join.png)
 
 ![ミーティングIDで参加2](zoom-home-join2.png)
+size
