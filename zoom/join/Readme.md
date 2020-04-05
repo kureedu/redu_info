@@ -28,4 +28,6 @@ Zoom を起動します
 
 3. パスワードを入力します．
 
-![ミーティングIDで参加](zoom-home-join.png)
+![ミーティングIDで参加1](zoom-home-join.png)
+
+![ミーティングIDで参加2](zoom-home-join2.png)
