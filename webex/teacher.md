@@ -21,24 +21,24 @@
 ビデオ会議をホストするには，まず，Cisco Webexのアカウントを作成します。
 
 1. [Cisco Webexのサイト](https://www.webex.com/ja/) にアクセスし，無料で登録のボタンをクリック（図中，赤で囲った部分）
-![Cisco Webexのサイト](imgs/webex_account_1.png | width=1024)
+![Cisco Webexのサイト](imgs/webex_account_1.png)
 
 1. メールアドレスを入力して「サインアップ」をクリック
-![サインアップ](imgs/webex_account_2.png | width=1024)
+![サインアップ](imgs/webex_account_2.png)
 
 1. 国を選択，氏名を入力して「次へ」（※国は日本でいいと思います）
-![氏名の入力](imgs/webex_account_3.png | width=1024)
+![氏名の入力](imgs/webex_account_3.png)
 
 上記までの手順を終了すると，登録したメールアドレスにメールが届く。
 
 1. メール中の「パスワードを作成」というリンクをクリックしてWebサイトにアクセスする。
-![メール](imgs/webex_account_4.png | width=800)
+![メール](imgs/webex_account_4.png)
 
 1. Webサイトでパスワードを入力
-![パスワードの入力](imgs/webex_account_5.png | width=1024)
+![パスワードの入力](imgs/webex_account_5.png)
 
 登録が終了すると，そのまま以下のようなWebex Meetingsの画面に移行する。
-![Webex Meetingsの画面](imgs/webex_meeting_dashboard.png | width=1024)
+![Webex Meetingsの画面](imgs/webex_meeting_dashboard.png)
 
 <h3 id="app_install">アプリのインストール</h4>
 
