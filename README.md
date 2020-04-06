@@ -17,7 +17,7 @@
 ### 遠隔授業のためのツールの情報
 #### LMS
 - [神戸大学 LMS BEEF (学修支援システム）](/Beef/Readme.md)
-#### Web会議システム
+### Web会議システム
 - [ZOOM (Web会議システム）](/zoom/Readme.md)
 
 ### イベント情報
