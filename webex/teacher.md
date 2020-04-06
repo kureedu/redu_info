@@ -9,10 +9,10 @@
 1. [講義の前に行う準備](#prepare_class)
     1. 資料の作成など（本稿では説明しません）
     1. [講義のスケジュール](#schedule_class)
-    1. 講義URL等の取得
-    1. BEEF等への講義URLの掲載による講義の周知
+    1. [講義URL等の取得](#obtain_class_url)
+    1. BEEF等への講義URLの掲載による講義の周知（本稿では説明しません）
 
-1. 講義の実施
+1. [講義の実施](#do_class)
 
 <h2 id="prepare_once">1度だけ行えば良い準備</h3>
 
@@ -85,6 +85,21 @@ Webexの講義のスケジュールはWebサイト経由で行います。
 
 ![Webex Meetingsアプリ画面でのスケジュール表示](imgs/webex_schedule_view_app.png)
 
-### 講義URLの取得
+<h3 id="obtain_class_url">講義URLの取得</h3>
 
-### BEEF等への講義URLの掲載による講義の周知
+BEEF等に掲示して周知するための講義URL等の情報はスケジュール画面から確認することができます。
+スケジュールは Webex Meetings のホーム画面またはスケジュール画面から確認することができます。
+
+1. Webex Meetingsのホーム画面の画面下，またはスケジュール画面に，開催予定のミーティング一覧があるので，講義名をクリックします。
+
+![Webex Meetingsホーム画面](imgs/webex_get_schedule_url_1.png)
+
+2. するとスケジュールの詳細を確認することができます。
+    - この画面のミーティング情報の「ミーティングリンク」が講義URLです。
+    - また，この画面でスケジュールの詳細を編集して変更することもできます。
+
+![スケジュール詳細画面](imgs/webex_get_schedule_url_2.png)
+
+
+<h2 id="do_class">講義の実施</h2>
+
