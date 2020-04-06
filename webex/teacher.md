@@ -38,7 +38,7 @@
 ![パスワードの入力](imgs/webex_account_5.png)
 
 登録が終了すると，そのまま以下のようなWebex Meetingsの画面に移行する。
-![Webex Meetingsの画面](imgs/webex_meeting_dashboard.png)
+![Webex Meetingsの画面](imgs/webex_meetings_dashboard.png)
 
 <h3 id="app_install">アプリのインストール</h4>
 
@@ -58,7 +58,11 @@
 Webexの講義のスケジュールはWebサイト経由で行います。
 
 1. まず，[Webex Meetingsのログイン画面](https://www.webex.co.jp/go/jp_host-meeting)にアクセス，Webexアカウントでサインインします。
-1. Webex Meetingsのホーム画面から「スケジュール」をクリックします。
+![Webex Meetingsへのログイン](imgs/webex_signin.png)
+
+1. Webex Meetingsのホーム画面から「スケジュールする」をクリックします。
+![Webex Meetingsのホーム画面](imgs/webex_class_schedule_1.png)
+
 1. ミーティングのスケジュール画面で以下の情報を入力し，スケジュールします。なお，詳細設定を含め，全ての設定はスケジュールを作成後に変更可能です。
     - ミーティングの議題：講義名で良いと思います。
     - ミーティングバスワード：ランダムなものが生成されます。自分で設定することも出来ますが，セキュリティ上あまりお薦めしません。
@@ -66,6 +70,7 @@ Webexの講義のスケジュールはWebサイト経由で行います。
     - タイムゾーン：なぜかクアラルンプール（UTC+8）になっていることが多いので「大阪，札幌，東京（UTC+9）」に変更します。
     - 繰り返し：これを使うと毎週同じ時間のミーティングが設定できます。
     - 出席者：空で結構です。
+![講義のスケジュール設定](imgs/webex_class_schedule_2.png)
 
 1. 必要に応じて「詳細設定」を行います。詳細設定で特に注意したいのは以下の点です。
     - 主催者より先に参加：出席者（学生）は主催者（教員）がミーティング（授業）を開始するよりも，設定された時間だけ早めに接続して待つことができます（デフォルトでは5分前に接続できる）
