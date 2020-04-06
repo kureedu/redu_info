@@ -59,9 +59,13 @@
 上記までの手順を終了すると，登録したメールアドレスにメールが届く。
 
 1. メール中の「パスワードを作成」というリンクをクリックしてWebサイトにアクセスする。
+![メール](imgs/webex_account_4.png | width=800)
+
 1. Webサイトでパスワードを入力
+![パスワードの入力](imgs/webex_account_5.png | width=1024)
 
 登録が終了すると，そのまま以下のようなWebex Meetingsの画面に移行する。
+![Webex Meetingsの画面](imgs/webex_meeting_dashboard.png | width=1024)
 
 #### アプリのインストール
 
@@ -69,8 +73,10 @@
 
 1. インストーラのダウンロード
     - Webex Meetingsの画面上の右側に「Cisco Webex Meetingsアプリを今すぐインストール」の画面が出ている場合はその下の「ダウンロード」をクリック。
+    ![Webex Meetingsからのダウンロード](imgs/webex_meeting_dl_1.png)
     - そうでない場合は[Cisco Webexダウンロード](https://www.webex.com_ja/downloads.html)にアクセスして「Cisco Webex Meetings」をダウンロード
 1. 手元のPC上でインストーラをダブルクリックして，指示に従ってインストール。
+
 
 ### 講義の前に行う準備
 
