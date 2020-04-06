@@ -6,14 +6,15 @@
   * [オプション項目設定](#詳細オプション)
   * [スケジュールの確認](#スケジュールの確認)
 
+  ![select schedule in ZOOM home](zoom_home_schedule.png)
 
 ホーム画面のスケジュールをクリックして「ミーティングをスケジュール」ダイアログを出します．
-
-![select schedule in ZOOM home](zoom_home_schedule.png)
 
 各項目をご希望通りに設定して「スケジュール」ボタンをクリックします．
 
 ## 基本設定項目
+
+![schedule dialog](zoom_meeting_schedule2.png)
 
 1. トピック（スケジュールしたミーティングに名前をつけます）
 
@@ -29,9 +30,10 @@
 
 1. カレンダー（わたしは「その他のカレンダー」にしています）
 
-![schedule dialog](zoom_meeting_schedule2.png)
 
 ## 詳細オプション
+
+![schedule option](zoom_meeting_schedule_option.png)
 
 1. 待機室を有効化
 
@@ -40,8 +42,6 @@
 1. エントリー時に参加者をミュートする
 
 1. ミーティングをローカルコンピュータに自動的にレコーディング
-
-![schedule option](zoom_meeting_schedule_option.png)
 
 ## スケジュールの確認
 
