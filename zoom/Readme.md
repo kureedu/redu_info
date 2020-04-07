@@ -41,17 +41,17 @@ ZOOMを使った授業をミーティングや会議室，オンライン授業�
 
 ## 開催者（教員向け）
 
-  - アカウントを作成します([詳細](account))
+  - アカウントを作成します([詳細](account/Readme.md))
 
   - Zoom をインストールします（[詳細](install.pdf)）
 
   - 会議室を作成して，会議室の情報（URLなど）を周知します（[詳細](host.pdf)）
 
-    - [オンライン授業URLの通知で気を付けたいこと](url_information)
+    - [オンライン授業URLの通知で気を付けたいこと](url_information/Readme.md)
 
-    - [ミーティングをスケジュールする](schedule)
+    - [ミーティングをスケジュールする](schedule/Readme.md)
 
-  - ミーティングを行います([詳細](how-to-use-host))
+  - ミーティングを行います([詳細](how-to-use-host/Readme.md))
 
     - 画面共有
     - チャット
@@ -65,8 +65,8 @@ ZOOMを使った授業をミーティングや会議室，オンライン授業�
 ## 参加者（学生さん向け）
 1. Zoom をインストールします（[詳細](install.pdf)）
 2. 会議室の情報（URLなど）を[BEEF](https://beef.center.kobe-u.ac.jp/)やメールなどを用いてスタッフから得ます
-3. 会議室へ入ります（[詳細](join)）
-4. ミーティングを行います（[具体的なZoomの使い方](meeting)）
+3. 会議室へ入ります（[詳細](join/Readme.md)）
+4. ミーティングを行います（[具体的なZoomの使い方](meeting/Readme.md)）
 
 # みんなのネットワーク
 
