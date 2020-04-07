@@ -2,17 +2,17 @@
 
 ## 全体の流れ
 
-1. [1度だけ行う準備](#prepare_once)
-    1. [Webexアカウントの作成](#make_new_account)
-    1. [アプリのインストール](#app_install)
+1. [STEP 1. 1度だけ行う準備](#prepare_once)
+    1. [STEP 1-1. Webexアカウントの作成](#make_new_account)
+    1. [STEP 1-2. アプリのインストール](#app_install)
 
-1. [講義の前に行う準備](#prepare_class)
-    1. 資料の作成など（本稿では説明しません）
-    1. [講義のスケジュール](#schedule_class)
-    1. [講義URL等の取得](#obtain_class_url)
-    1. BEEF等への講義URLの掲載による講義の周知（本稿では説明しません）
+1. [STEP 2. 講義の前に行う準備](#prepare_class)
+    1. STEP 2-1. 資料の作成など（本稿では説明しません）
+    1. [STEP 2-2. 講義のスケジュール](#schedule_class)
+    1. [STEP 2-3. 講義URL等の取得](#obtain_class_url)
+    1. STEP 2-4. BEEF等への講義URLの掲載による講義の周知（本稿では説明しません）
 
-1. [講義の実施](#do_class)
+1. [STEP 3. 講義の実施](#do_class)
 
 <h2 id="prepare_once">STEP 1. 1度だけ行えば良い準備</h2>
 
