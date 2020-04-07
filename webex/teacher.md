@@ -14,9 +14,9 @@
 
 1. [講義の実施](#do_class)
 
-<h2 id="prepare_once">1度だけ行えば良い準備</h3>
+<h2 id="prepare_once">1度だけ行えば良い準備</h2>
 
-<h3 id="make_new_account">アカウントの作成</h4>
+<h3 id="make_new_account">アカウントの作成</h3>
 
 ビデオ会議をホストするには，まず，Cisco Webexのアカウントを作成します。
 
@@ -40,7 +40,7 @@
 登録が終了すると，そのまま以下のようなWebex Meetingsの画面に移行する。
 ![Webex Meetingsの画面](imgs/webex_meetings_dashboard.png)
 
-<h3 id="app_install">アプリのインストール</h4>
+<h3 id="app_install">アプリのインストール</h3>
 
 ビデオ会議用のアプリケーションである「Cisco Webex Meetings」をインストールします。
 
