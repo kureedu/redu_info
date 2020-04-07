@@ -14,9 +14,9 @@
 
 1. [講義の実施](#do_class)
 
-<h2 id="prepare_once">1度だけ行えば良い準備</h2>
+<h2 id="prepare_once">STEP 1. 1度だけ行えば良い準備</h2>
 
-<h3 id="make_new_account">アカウントの作成</h3>
+<h3 id="make_new_account">STEP 1-1. アカウントの作成</h3>
 
 ビデオ会議をホストするには，まず，Cisco Webexのアカウントを作成します。
 
@@ -40,7 +40,7 @@
 登録が終了すると，そのまま以下のようなWebex Meetingsの画面に移行する。
 ![Webex Meetingsの画面](imgs/webex_meetings_dashboard.png)
 
-<h3 id="app_install">アプリのインストール</h3>
+<h3 id="app_install">STEP 1-2.アプリのインストール</h3>
 
 ビデオ会議用のアプリケーションである「Cisco Webex Meetings」をインストールします。
 
@@ -51,9 +51,13 @@
 1. 手元のPC上でインストーラを開いて，指示に従ってインストール。
 
 
-<h2 id="prepare_class">講義の前に行う準備</h2>
+<h2 id="prepare_class">STEP 2. 講義の前に行う準備</h2>
 
-<h3 id="schedule_class">講義のスケジュール</h3>
+### STEP 2-1. 講義資料の作成
+
+本稿では説明しません。
+
+<h3 id="schedule_class">STEP 2-2. 講義のスケジュール</h3>
 
 Webexの講義のスケジュールはWebサイト経由で行います。
 
@@ -85,7 +89,7 @@ Webexの講義のスケジュールはWebサイト経由で行います。
 
 ![Webex Meetingsアプリ画面でのスケジュール表示](imgs/webex_schedule_view_app.png)
 
-<h3 id="obtain_class_url">講義URLの取得</h3>
+<h3 id="obtain_class_url">STEP 2-3. 講義URLの取得</h3>
 
 BEEF等に掲示して周知するための講義URL等の情報はスケジュール画面から確認することができます。
 スケジュールは Webex Meetings のホーム画面またはスケジュール画面から確認することができます。
@@ -100,6 +104,9 @@ BEEF等に掲示して周知するための講義URL等の情報はスケジュ�
 
 ![スケジュール詳細画面](imgs/webex_get_schedule_url_2.png)
 
+### STEP 2-4. BEEF等への講義URLの掲載による講義の周知
+
+本稿では説明しません。
 
 <h2 id="do_class">講義の実施</h2>
 
