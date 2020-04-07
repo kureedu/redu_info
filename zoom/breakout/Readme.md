@@ -26,6 +26,10 @@ description: グループワーク支援環境を構築する
 
 ブレイクアウトルームダイアログで，学生グループとブレイクアウトルームを対応づけます
 
+![Button](trade_breakout_room.png)
+
+学生を入れ替えています．
+
 ![Distribute Students into Rooms](zoom_breakout_room.png)
 
 「すべてのルームを開ける」でブレイクアウトルームを開始します．
