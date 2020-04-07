@@ -42,6 +42,8 @@ description: グループワーク支援環境を構築する
 
 割り当てられたグループのブレイクアウト・ミーティグルームに参加します．グループワークが開始されるはずです．
 
+![Group Studies in a Breakout Room](unmute.png)
+
 教員はブレイクアウトルームダイアログの各ブレイクアウトルームの右にある参加ボタンを押して
 
 ![Button](zoom_breakout_join_teacher.png)
