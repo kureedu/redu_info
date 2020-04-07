@@ -14,7 +14,8 @@
 
 1. [STEP 3. 講義の実施](#do_class)
     1. [STEP 3-1. 講義の開始](#start_class)
-    1. [STEP 3-2. 講義中にできること](#during_class)
+    1. [STEP 3-2. 講義を実施する前に](#before_starting_class)
+    1. [STEP 3-3. 講義中にできること](#during_class)
 
 <h2 id="prepare_once">STEP 1. 1度だけ行えば良い準備</h2>
 
@@ -125,5 +126,17 @@ Webex Meetingsのホーム画面（Webサイト）もしくはアプリを起動
    設定を確認したら「Start Meeting」ボタンをクリックして講義を開始します。
     ![スタート画面](imgs/webex_start_class_3.png)
 
-<h3 id="during_class">STEP 3-2. 講義中にできること</h3>
+<h3 id="before_starting_class">STEP 3-2. 講義を実施する前に</h3>
+
+講義を開始すると以下のような画面が現れます。
+これは講義中と同じ画面ですが，いくつか開始前にはできない設定ができますので，学生が参加する前にいくつか設定をしておきます。
+
+- 「参加者」メニュー（英語の場合は Participants ）：
+  参加者のミュートや共有の許可設定を変更することができます。
+  特にセキュリティ上の観点から，「誰でも共有可」（Anyone can share）のチェックは外しておいた方が良いと思います。
+  ![参加者メニュー](imgs/webex_menu_participants.png)
+
+
+<h3 id="during_class">STEP 3-3. 講義中にできること</h3>
+
 
