@@ -1,3 +1,8 @@
+---
+title: ZOOMアカウントの作成
+description: Sign up your ZOOM Account
+---
+
 # ZOOMアカウントを作る
 アカウント作成について
 
