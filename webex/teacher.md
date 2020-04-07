@@ -13,6 +13,8 @@
     1. STEP 2-4. BEEF等への講義URLの掲載による講義の周知（本稿では説明しません）
 
 1. [STEP 3. 講義の実施](#do_class)
+    1. [STEP 3-1. 講義の開始](#start_class)
+    1. [STEP 3-2. 講義中にできること](#during_class)
 
 <h2 id="prepare_once">STEP 1. 1度だけ行えば良い準備</h2>
 
