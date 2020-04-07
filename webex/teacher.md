@@ -91,12 +91,12 @@ BEEF等に掲示して周知するための講義URL等の情報はスケジュ�
 スケジュールは Webex Meetings のホーム画面またはスケジュール画面から確認することができます。
 
 1. Webex Meetingsのホーム画面の画面下，またはスケジュール画面に，開催予定のミーティング一覧があるので，講義名をクリックします。
-![Webex Meetingsホーム画面](imgs/webex_get_schedule_url_1.png)
+   ![Webex Meetingsホーム画面](imgs/webex_get_schedule_url_1.png)
 
 2. するとスケジュールの詳細を確認することができます。
     - この画面のミーティング情報の「ミーティングリンク」が講義URLです。
     - また，この画面でスケジュールの詳細を編集して変更することもできます。
-![スケジュール詳細画面](imgs/webex_get_schedule_url_2.png)
+    ![スケジュール詳細画面](imgs/webex_get_schedule_url_2.png)
 
 ### STEP 2-4. BEEF等への講義URLの掲載による講義の周知
 
