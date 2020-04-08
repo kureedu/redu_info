@@ -7,7 +7,7 @@
 ## BEEFの使い方
 
 ## ビデオ会議システム
-- Zoom
+- [Zoom](/zoom/for_student.md)
 - [Cisco Webex](/webex/student.md)
 
 ## こまったときは
