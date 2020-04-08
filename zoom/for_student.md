@@ -1,20 +1,17 @@
 ---
-title: ZOOM（Web会議システム）
+title: ZOOM（Web会議システム）(学生向け)
 description: 情報通信機器と利用環境，利用の流れ
 ---
 
 ## 情報通信機器と利用環境，利用の流れ
-（最終更新：令和2年4月8日09時00分）
+（最終更新：令和2年4月8日18時00分）
 
 ここでは Web会議ツール Zoom 利用の流れについて説明します．また，具体的な使い方が載った資料とサブページも用意しましたので，適宜ご参照ください．
 基本的に PC での利用について説明しますが，タブレットやスマートフォンでもアプリを用いることで Zoom を使えます．
 
 ## おしらせ
 
-  - [グループワーク支援（ブレイクアウト）](breakout/Readme.md)を追加しました．（R2.04.08,09:00）
   - ZOOMを使った授業をミーティングや会議室，オンライン授業などと記述しています．その他，用語の統一がされていないところもありますが，少しづつ改善してまいります．
-
-# 利用の流れ
 
 ## 情報通信機器と利用環境
 
@@ -36,34 +33,12 @@ description: 情報通信機器と利用環境，利用の流れ
 
       - 個室がある場合は入り口を閉じる
       - 周囲からの協力を得る
-        - [(張り紙1)](univ_online_silent.pdf)受講用
-        - [(張り紙2)](teaching_online_silent.pdf)先生用
+        - [(張り紙)](univ_online_silent.pdf)受講用
 
-## 開催者（教員向け）
+## 利用の流れ
 
-  - アカウントを作成します([詳細](account/Readme.md))
+- 必要に応じてアカウントを作成します([詳細](account/Readme.md))
 
-  - Zoom をインストールします（[詳細](install.pdf)）
-
-  - 会議室を作成して，会議室の情報（URLなど）を周知します（[詳細](host.pdf)）
-
-    - [オンライン授業URLの通知で気を付けたいこと](url_information/Readme.md)
-
-    - [ミーティングをスケジュールする](schedule/Readme.md)
-
-  - ミーティングを行います([詳細](how-to-use-host/Readme.md))
-
-    - 画面共有
-    - チャット
-    - 参加者の管理
-    - ブレイクアウト
-
-[ホストになるための最低限の設定（国文研修会資料）](FD_handout20200402_kiyomitsu46.pdf)(15.7MB)
-
-### 開催者特有の使い方
-- 教室で人の姿を写したりする場合など，PCと話をする人との距離が遠い場合，外付けのカメラや高感度マイクを接続すると良いでしょう
-
-## 参加者（学生さん向け）
 1. Zoom をインストールします（[詳細](install.pdf)）
 2. 会議室の情報（URLなど）を[BEEF](https://beef.center.kobe-u.ac.jp/)やメールなどを用いてスタッフから得ます
 3. 会議室へ入ります（[詳細](join/Readme.md)）
@@ -81,12 +56,6 @@ description: 情報通信機器と利用環境，利用の流れ
 
     - 同時配信以外の方法で可能な通信はオンデマンド方式でお願いします（上と同じことを言い換えています）．
 
-
-## 教員向け
-
-1. 講義をZOOMで行う
-2. 講義に出席す
-
 # ダウンロード
 ZOOMをダウンロードしてインストールしてください．
 
@@ -101,6 +70,3 @@ iPhone/iPad用(https://apps.apple.com/jp/app/zoom-cloud-meetings/id546505307)
 Android用(https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
 
 [![Android](android-download.png)](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
-
-
-## リンク集

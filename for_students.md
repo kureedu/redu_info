@@ -3,3 +3,4 @@
 
 ## ビデオ会議システム
 - [Cisco Webex](/webex/Readme.md)
+- [ZOOM (Web会議システム）](/zoom/for_student.md)
