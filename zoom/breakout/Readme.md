@@ -5,7 +5,7 @@ description: グループワーク支援環境を構築する
 
 ## ブレイクアウトを有効にする
 
-[ZOOM公式サイトのマイページ](https://zoom.us/profile/setting{:target="_blank"}) で設定を変更します．
+[ZOOM公式サイトのマイページ](https://zoom.us/profile/setting{:target=_blank}) で設定を変更します．
   1. 個人の設定で
   1. ミーティングの設定項目の中にある
   1. ミーティングにて（詳細）グループの最初にある「ブレイクアウトルーム」を有効にするスライダーをON
@@ -18,7 +18,7 @@ description: グループワーク支援環境を構築する
 ![Menu with Breakout](zoom_menu_with_breakout.png)
 
 メニューの「ブレイクアウト」からブレイクアウトルームの設定をします．
-![Breakout setup Panel](zoom_breakout_panel.png)
+![Breakout setup Panel](zoom_breakout_panel2.jpg)
 
 ミーティングルームを何個かのブレイクアウトルームに分割します
 
@@ -29,6 +29,9 @@ description: グループワーク支援環境を構築する
 ![Button](trade_breakout_room.png)
 
 学生を入れ替えています．
+
+
+学生が参加するブレイクアウトルームを変更しています．
 
 ![Distribute Students into Rooms](zoom_breakout_room.png)
 
