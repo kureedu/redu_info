@@ -6,6 +6,8 @@
 
 ## BEEFの使い方
 
-## ZOOMへの参加の方法
+## ビデオ会議システム
+- Zoom
+- [Cisco Webex](/webex/student.md)
 
 ## こまったときは
