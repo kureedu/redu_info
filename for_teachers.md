@@ -8,7 +8,7 @@
 - [神戸大学 LMS BEEF (学修支援システム）](/Beef/Readme.md)
 
 ## ビデオ会議システム
-- [ZOOM (Web会議システム）](/zoom/Readme.md)
+- [ZOOM (Web会議システム）](/zoom/for_teacher.md)
 - [Cisco Webex](/webex/Readme.md)
 
 ## イベント情報
